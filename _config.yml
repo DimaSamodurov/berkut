@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
-simple_search: https://www.google.com/search
+url: http://berkut.lviv.ua
+title: Про Львівський "Беркут"
+subtitle: Інформація про спец батальйон міліції - львівський Беркут.
+author: Дмитро Самодуров
+simple_search: https://www.google.com.ua/search
 description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
@@ -98,4 +98,4 @@ disqus_show_comment_count: false
 google_analytics_tracking_id:
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
