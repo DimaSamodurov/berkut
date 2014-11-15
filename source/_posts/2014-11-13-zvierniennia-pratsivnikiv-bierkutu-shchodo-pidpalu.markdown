@@ -7,7 +7,7 @@ categories:
 ---
 Є і в міліції люди сильні духом:
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/zLCYgXSQH4Y" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="//www.youtube.com/embed/fqRa4OoMGOs" frameborder="0" allowfullscreen></iframe>
 
 Далі інтерв’ю із самим Сергієм. Воно досить довге. Можливо, люди, зараз це не на часі і Ви передивитесь це колись.
 І обдумаєте як слід.
