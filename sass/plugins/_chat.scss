@@ -1,0 +1,24 @@
+.chat{
+  .a,.b{
+    //box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
+    @include border-radius(.5em);
+    border: 2px groove;
+    margin: 0.5em;
+    padding: 0.5em;
+
+    ol{
+      margin-left: 2em;
+      font-weight: bold;
+    }
+  }
+  .a{
+   margin-left: 1em;
+  }
+  .b{
+    margin-left: 2em;
+  }
+  .time {
+    font: 0.5em grey;
+  }
+
+}

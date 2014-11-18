@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Чат"
+date: 2014-11-17 23:39:25 +0200
+comments: true
+categories: 
+---
+
+{% haml 2014-11-17/chat.haml %}
+
+
+
+
